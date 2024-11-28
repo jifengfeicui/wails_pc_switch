@@ -1,4 +1,6 @@
 # Logs
+config.yaml
+config.yml
 logs
 *.log
 npm-debug.log*
